@@ -1,0 +1,4 @@
+#Wed Oct 20 11:37:58 CEST 2021
+base.0=C\:\\Users\\$9S3100-T7APORRH16A7\\Desktop\\redditech_lucas_nora\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
