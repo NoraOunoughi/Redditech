@@ -59,7 +59,6 @@ Project Link: [https://github.com/NoraOunoughi/Redditech.git)
 ## Acknowledgments
 
 
-* [AXIOS](https://axios-http.com/docs/intro)
 * [Material UI](https://mui.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
